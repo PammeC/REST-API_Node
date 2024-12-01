@@ -13,12 +13,12 @@ This project demonstrates a simple REST API built with Express.js that provides 
 - JSON request/response format
 - Express middleware for parsing JSON bodies
 
-## Prerequisites
+## 📋Prerequisites
 
 - Node.js (v12 or higher)
 - npm (Node Package Manager)
 
-## Installation
+## 🔧Installation
 
 1. Clone the repository:
 ```bash
